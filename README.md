@@ -16,4 +16,4 @@ Currently working with **Java, Spring Boot, PostgreSQL, React and Tauri**, while
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/emirhanakdeniz/) · [GitHub](https://github.com/emirhanakdeniz)
+[LinkedIn](https://www.linkedin.com/in/emirhanakdeniz/)
