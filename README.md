@@ -20,6 +20,7 @@ I made some Windows apps for my own use. If you wanna check them out and use the
 * [LocalNote](https://github.com/emirhanakdeniz/LocalNote): A fully local note-taking app, especially for developers. No internet connection and no uploading your content to the cloud.
 * [ClipVault](https://github.com/emirhanakdeniz/ClipVault): A clipboard history & snippet manager. Fully local, no cloud.
 * [PeekMD](https://github.com/emirhanakdeniz/PeekMD): A basic, lightweight app for viewing Markdown files.
+* [BrightnessTray](https://github.com/emirhanakdeniz/BrightnessTray): A lightweight Windows 11 tray app for controlling external and internal display brightness with zero idle CPU usage.
 
 ## Contact
 
